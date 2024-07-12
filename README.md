@@ -24,3 +24,7 @@
   console.log(findPrimeNumbers(1, 10)); // Output: [2, 3, 5, 7]
   console.log(findPrimeNumbers(15, 17)); // Output: [17]"
 ```
+
+### Homework Finished 12/07/2567
+- นายวัชรพล แดงเปี่ยม (มายด์)
+- Online-CC#18
